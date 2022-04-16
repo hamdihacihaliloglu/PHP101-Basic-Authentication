@@ -25,12 +25,11 @@ Admin Panelli Üyelik Sistemi
 #### Admin Giriş Ekranı
 ![Admin Giriş Ekranı](https://github.com/hamdihacihaliloglu/PHP101-Basic-Authentication/blob/main/%5BResimler%5D/adminlogin.PNG)
 
-
-
+Admin sayfasına giriş yapmayı denemek isteyenler için veritabanına kendini yönetici olarak eklemeniz gerekmektedir.
+Tavsiye edilen şifre örneği: (şifre:123456 , veritabanına eklenecek olan şifre:f4cc399f0effd13c888e310ea2cf5399)
 
 #### Admin Anasayfa Ekranı
 ![Admin Anasayfa Ekranı](https://github.com/hamdihacihaliloglu/PHP101-Basic-Authentication/blob/main/%5BResimler%5D/admin.PNG)
-
 
 
 #### Admin Üyeler Ekranı
